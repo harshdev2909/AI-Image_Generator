@@ -16,7 +16,7 @@ function ImageGenerator() {
         method : "POST",
         headers:{
           "Content-Type" : "application/json",
-          Authorization : " Bearer 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",
+          Authorization : " Bearer",
           "User-Agent" : "Chrome",
         },
         body:JSON.stringify({
